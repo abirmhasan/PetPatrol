@@ -76,12 +76,6 @@ Enable Firebase Authentication, Firestore, and Storage in the Firebase Console <
 ✅ Offline Support: Enable users to access pet records without an internet connection. <br>
 ✅ Admin Panel: Implement roles for managing community posts and pet records. <br>
 
-### 👥 Contributors
-Abir Hasan: Firebase Integration, Authentication, UI Development <br>
-Team Members (Add Names): Contributions to various app features <br>
+### APK Link
+https://drive.google.com/file/d/1QW4JDInVapYvwgWS8afDqyV--OW39Nh0/view?usp=sharing
 
-📩 Contact
-For inquiries or contributions, feel free to reach out: <br>
-
-📧 Email: [hasan.abir@icloud.com]
-💻 GitHub: @abirmhasan
