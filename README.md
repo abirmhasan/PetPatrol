@@ -79,3 +79,6 @@ Enable Firebase Authentication, Firestore, and Storage in the Firebase Console <
 ### APK Link
 https://drive.google.com/file/d/1QW4JDInVapYvwgWS8afDqyV--OW39Nh0/view?usp=sharing
 
+### Demo Video of the APP
+https://youtu.be/_Y0Rzn6KzR8
+
