@@ -1,6 +1,3 @@
-# Writing the README content to a text file
-
-readme_content = """
 # 🐾 Pet Patrol: Campus Vaccination & Pet Community App  
 
 ## 📌 Overview  
@@ -70,6 +67,7 @@ PetPatrol/
 ├── pubspec.yaml         # Project dependencies
 └── README.md            # Project documentation
 
+
 ### 🏆 Challenges and Solutions
 🔹 Challenge 1: Firebase Firestore Access Issues
 
@@ -89,10 +87,10 @@ Issue: Managing appointment bookings with available slots was tricky.
 Solution: Implemented Firestore to store and update appointment slots dynamically.
 
 ### 🎯 Future Enhancements
-✅ Push Notifications: Notify users about new messages, lost pet reports, and adoption posts.
-✅ Search & Filter: Allow users to search for pets and adoption posts efficiently.
-✅ Offline Support: Enable users to access pet records without an internet connection.
-✅ Admin Panel: Implement roles for managing community posts and pet records.
+✅ Push Notifications: Notify users about new messages, lost pet reports, and adoption posts. <br>
+✅ Search & Filter: Allow users to search for pets and adoption posts efficiently. <br>
+✅ Offline Support: Enable users to access pet records without an internet connection. <br>
+✅ Admin Panel: Implement roles for managing community posts and pet records. <br>
 
 ### 👥 Contributors
 Abir Hasan: Firebase Integration, Authentication, UI Development
