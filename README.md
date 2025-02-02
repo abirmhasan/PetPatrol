@@ -41,12 +41,10 @@ readme_content = """
 ### 🔧 Setup Steps  
 
 1️⃣ **Clone the Repository:**  
-
-```sh
 git clone https://github.com/abirmhasan/PetPatrol.git
 cd PetPatrol
 
-2️⃣ Install Dependencies:
+2️⃣ **Install Dependencies:**
 flutter pub get
 3️⃣ Configure Firebase:
 
