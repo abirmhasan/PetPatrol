@@ -1,4 +1,4 @@
-# 🐾 Pet Patrol: Campus Vaccination & Pet Community App  
+# 🐾 Pet Patrol
 
 ## 📌 Overview  
 **Pet Patrol** is a Flutter-based mobile application designed to help users manage pet profiles, report lost/found pets, post adoption listings, schedule veterinary appointments, and communicate within the pet community. Built using **Flutter & Firebase**, the app provides a centralized platform for responsible pet care on campus.  
@@ -55,36 +55,36 @@ flutter run
 📁 **Folder Structure**
 
 PetPatrol/
-├── android/             
-├── ios/                
-├── lib/                 
-│   ├── main.dart        # App entry point
-│   ├── screens/         # UI screens (Home, Login, Profile, News Feed, Messaging, etc.)
-│   ├── services/        # Firebase interaction services
-│   ├── models/          # Data models for pets, users, and posts
-│   ├── widgets/         # Reusable UI components
-├── assets/              # Static images/icons
-├── pubspec.yaml         # Project dependencies
-└── README.md            # Project documentation
+├── android/             <br>
+├── ios/                <br>
+├── lib/                 <br>
+│   ├── main.dart        # App entry point <br>
+│   ├── screens/         # UI screens (Home, Login, Profile, News Feed, Messaging, etc.) <br>
+│   ├── services/        # Firebase interaction services <br>
+│   ├── models/          # Data models for pets, users, and posts <br>
+│   ├── widgets/         # Reusable UI components <br>
+├── assets/              # Static images/icons <br>
+├── pubspec.yaml         # Project dependencies <br>
+└── README.md            # Project documentation <br>
 
 
 ### 🏆 Challenges and Solutions
-🔹 Challenge 1: Firebase Firestore Access Issues
+🔹 Challenge 1: Firebase Firestore Access Issues <br>
 
-Issue: Could not retrieve or update data due to Firestore rule misconfigurations.
-Solution: Updated Firestore security rules and ensured authentication for proper access.
-🔹 Challenge 2: Emulator and Android Studio Setup
+Issue: Could not retrieve or update data due to Firestore rule misconfigurations. <br>
+Solution: Updated Firestore security rules and ensured authentication for proper access. <br>
+🔹 Challenge 2: Emulator and Android Studio Setup <br>
 
-Issue: The app failed to run on an emulator due to missing SDK components.
-Solution: Installed missing dependencies and properly configured the emulator settings.
-🔹 Challenge 3: Implementing Real-time Messaging
+Issue: The app failed to run on an emulator due to missing SDK components. <br>
+Solution: Installed missing dependencies and properly configured the emulator settings. <br>
+🔹 Challenge 3: Implementing Real-time Messaging <br>
 
-Issue: Synchronizing real-time messages between users was difficult.
-Solution: Used Firestore's real-time updates and structured message collections properly.
-🔹 Challenge 4: Doctor Appointment System
+Issue: Synchronizing real-time messages between users was difficult. <br>
+Solution: Used Firestore's real-time updates and structured message collections properly. <br>
+🔹 Challenge 4: Doctor Appointment System <br>
 
-Issue: Managing appointment bookings with available slots was tricky.
-Solution: Implemented Firestore to store and update appointment slots dynamically.
+Issue: Managing appointment bookings with available slots was tricky. <br>
+Solution: Implemented Firestore to store and update appointment slots dynamically. <br>
 
 ### 🎯 Future Enhancements
 ✅ Push Notifications: Notify users about new messages, lost pet reports, and adoption posts. <br>
@@ -93,13 +93,11 @@ Solution: Implemented Firestore to store and update appointment slots dynamicall
 ✅ Admin Panel: Implement roles for managing community posts and pet records. <br>
 
 ### 👥 Contributors
-Abir Hasan: Firebase Integration, Authentication, UI Development
-Team Members (Add Names): Contributions to various app features
+Abir Hasan: Firebase Integration, Authentication, UI Development <br>
+Team Members (Add Names): Contributions to various app features <br>
 
 📩 Contact
-For inquiries or contributions, feel free to reach out:
+For inquiries or contributions, feel free to reach out: <br>
 
 📧 Email: [hasan.abir@icloud.com]
 💻 GitHub: @abirmhasan
-
-🚀 Enjoy using Pet Patrol! Keep your pets safe and healthy! 🐾 
