@@ -46,8 +46,8 @@ cd PetPatrol
 
 2️⃣ **Install Dependencies:**
 flutter pub get
-3️⃣ Configure Firebase:
 
+3️⃣ **Configure Firebase:**
 Add google-services.json (for Android) inside android/app/
 Add GoogleService-Info.plist (for iOS) inside ios/Runner/
 Enable Firebase Authentication, Firestore, and Storage in the Firebase Console
@@ -55,7 +55,8 @@ Enable Firebase Authentication, Firestore, and Storage in the Firebase Console
 flutter run
 
 
-📁 Folder Structure
+📁 **Folder Structure**
+
 PetPatrol/
 ├── android/             
 ├── ios/                
@@ -69,7 +70,7 @@ PetPatrol/
 ├── pubspec.yaml         # Project dependencies
 └── README.md            # Project documentation
 
-🏆 Challenges and Solutions
+### 🏆 Challenges and Solutions
 🔹 Challenge 1: Firebase Firestore Access Issues
 
 Issue: Could not retrieve or update data due to Firestore rule misconfigurations.
@@ -86,22 +87,21 @@ Solution: Used Firestore's real-time updates and structured message collections 
 
 Issue: Managing appointment bookings with available slots was tricky.
 Solution: Implemented Firestore to store and update appointment slots dynamically.
-🎯 Future Enhancements
+
+### 🎯 Future Enhancements
 ✅ Push Notifications: Notify users about new messages, lost pet reports, and adoption posts.
 ✅ Search & Filter: Allow users to search for pets and adoption posts efficiently.
 ✅ Offline Support: Enable users to access pet records without an internet connection.
 ✅ Admin Panel: Implement roles for managing community posts and pet records.
 
-👥 Contributors
+### 👥 Contributors
 Abir Hasan: Firebase Integration, Authentication, UI Development
 Team Members (Add Names): Contributions to various app features
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 📩 Contact
 For inquiries or contributions, feel free to reach out:
 
-📧 Email: [your-email@example.com]
+📧 Email: [hasan.abir@icloud.com]
 💻 GitHub: @abirmhasan
 
-🚀 Enjoy using Pet Patrol! Keep your pets safe and healthy! 🐾 """
+🚀 Enjoy using Pet Patrol! Keep your pets safe and healthy! 🐾 
