@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "586608555706",
+    "project_id": "petcare-7fde2",
+    "storage_bucket": "petcare-7fde2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586608555706:android:9b12fc9d658eae05bc7483",
+        "android_client_info": {
+          "package_name": "com.example.pet_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChC5r4L50U6G-cZBzS9c-Zoru7gYyRvdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586608555706:android:5325ce315d4413b4bc7483",
+        "android_client_info": {
+          "package_name": "com.example.petpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChC5r4L50U6G-cZBzS9c-Zoru7gYyRvdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586608555706:android:dc1a7284ca98a621bc7483",
+        "android_client_info": {
+          "package_name": "com.teamsaat.petcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChC5r4L50U6G-cZBzS9c-Zoru7gYyRvdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
