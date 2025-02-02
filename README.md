@@ -37,35 +37,20 @@
 
 ### 🔧 Setup Steps  
 
-1️⃣ **Clone the Repository:**  
-'git clone https://github.com/abirmhasan/PetPatrol.git'
-'cd PetPatrol'
+1️⃣ **Clone the Repository:**   <br>
+'git clone https://github.com/abirmhasan/PetPatrol.git' <br> 
+'cd PetPatrol' <br>
 
-2️⃣ **Install Dependencies:**
-'flutter pub get'
+2️⃣ **Install Dependencies:** <br>
+'flutter pub get' <br>
 
-3️⃣ **Configure Firebase:**
+3️⃣ **Configure Firebase:** <br>
 Add google-services.json (for Android) inside android/app/ <br>
 Add GoogleService-Info.plist (for iOS) inside ios/Runner/ <br>
 Enable Firebase Authentication, Firestore, and Storage in the Firebase Console <br>
-4️⃣ Run the App:
+4️⃣ Run the App: <br>
 'flutter run'
 
-
-📁 **Folder Structure**
-
-PetPatrol/
-├── android/                     <br>
-├── ios/                          <br>
-├── lib/                           <br>
-│   ├── main.dart        # App entry point   <br>
-│   ├── screens/         # UI screens (Home, Login, Profile, News Feed, Messaging, etc.) <br>
-│   ├── services/        # Firebase interaction services <br>
-│   ├── models/          # Data models for pets, users, and posts <br>
-│   ├── widgets/         # Reusable UI components <br>
-├── assets/              # Static images/icons <br>
-├── pubspec.yaml         # Project dependencies <br>
-└── README.md            # Project documentation <br>
 
 
 ### 🏆 Challenges and Solutions
